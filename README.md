@@ -12,12 +12,15 @@ A simple and interactive math game built with SwiftUI. This game helps users pra
 
 ## Screenshots
 
-### Gameplay
-![Gameplay Screenshot]([![answerbutton.jpg](https://i.postimg.cc/hGyHrXSB/answerbutton.jpg)](https://postimg.cc/gwhSckXS))
+### AnswerButton
+![answerbutton.jpg](https://i.postimg.cc/hGyHrXSB/answerbutton.jpg)
 
-### Correct Answer
-![Correct Answer Screenshot](path-to-your-screenshot/correct-answer-screenshot.png)
+### Demo
+![demo.jpg](https://i.postimg.cc/CxMPQwrL/demo.jpg)
 
-### Incorrect Answer
-![Incorrect Answer Screenshot](path-to-your-screenshot/incorrect-answer-screenshot.png)
+
+### CorrectAnswer
+![correctanswer.jpg](https://i.postimg.cc/DyTY1rqG/correctanswer.jpg)
+
+
 
